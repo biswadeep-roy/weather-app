@@ -29,7 +29,7 @@ Follow these instructions to get a copy of the project up and running on your lo
 
    ```bash
    git clone https://github.com/biswadeep-roy/weather-app.git
-  ```
+   ```
 2. Change into the project directory:
 
   ```bash
